@@ -2,4 +2,7 @@ holamundo
 
 ----> modificaci�n
 
-edicion del navegador
+edcion del navegador
+
+edicion por consola
+
